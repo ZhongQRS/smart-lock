@@ -1,4 +1,4 @@
-# smark-lock
+# smart-lock
 基于stm32f407 && UCOS III 开发的智能锁
 
 此项目用于学习
